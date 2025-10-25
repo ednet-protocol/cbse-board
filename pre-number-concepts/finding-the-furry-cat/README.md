@@ -12,7 +12,7 @@ To the right, there’s a couple of yellow flowers growing from the ground. At t
 The whole image feels cheerful, playful, and full of warmth — just right to begin a fun story about finding a cat.
 
 
-<img width="1073" height="429" alt="image" src="https://github.com/ednet-protocol/cbse-board/blob/main/pre-number-concepts/finding-the-furry-cat/furry-cat-01.png?raw=true" />
+<img alt="image" src="https://github.com/ednet-protocol/cbse-board/blob/main/pre-number-concepts/finding-the-furry-cat/furry-cat-01.png?raw=true" />
 
 
 ## Scene 2: Looking for My Furry Cat!
@@ -23,4 +23,8 @@ A white furry cat is jumping into the open window of the house — this seems to
 
 In the background, there are haystacks, green trees, and a man sleeping on a wooden cot under a tree. Two squirrels play near a bowl on the ground. The scene feels peaceful and full of life — children searching, animals playing, and nature all around.
 
-<img width="1073" height="429" alt="image" src="https://github.com/ednet-protocol/cbse-board/blob/main/pre-number-concepts/finding-the-furry-cat/02.png?raw=true" />
+<img alt="image" src="https://github.com/ednet-protocol/cbse-board/blob/main/pre-number-concepts/finding-the-furry-cat/02.png?raw=true" />
+
+## Scene 3: 
+
+<img alt="image" src="https://github.com/ednet-protocol/cbse-board/blob/main/pre-number-concepts/finding-the-furry-cat/03.PNG?raw=true" />
