@@ -46,3 +46,10 @@ This file was generated in [a conversation with ChatGPT](https://chatgpt.com/sha
 ---
 
 ### 🔗 Repo Layout
+
+
+--- 
+
+### References
+
+- [Someone's YouTube Video](https://www.youtube.com/watch?v=7wxHRr-6LRs)
