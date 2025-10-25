@@ -34,3 +34,23 @@ In the background, there are haystacks, green trees, and a man sleeping on a woo
 ## Scene 3: 
 
 <img alt="image" src="https://github.com/ednet-protocol/cbse-board/blob/main/pre-number-concepts/finding-the-furry-cat/03.PNG?raw=true" />
+
+
+# Quizes
+
+## Look at the pictures of the poem and encircle the correct word.
+
+TODO: Add Image 
+
+## Think and Answer 
+
+Where do you put your shoes? Inside/Outside the room.
+
+## Think and Answer 
+
+Where do you throw the garbage? Inside/Outside the dustbin.
+
+# Resources
+
+- YouTube Explainer Video
+
