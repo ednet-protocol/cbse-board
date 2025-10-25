@@ -5,7 +5,7 @@ Each mantra is a core idea (concept, pattern, or skill).
 They are linked as a **concept graph** — not a fixed sequence — to allow curiosity-driven navigation.  
 Cycles are encouraged: forward links spark curiosity; backward links reinforce foundations.
 
-This file was generated in [a conversation with ChatGPT](https://chatgpt.com/c/68fc7cf2-6b9c-8322-b7d4-d83fd7bb2a57).
+This file was generated in [a conversation with ChatGPT](https://chatgpt.com/share/68fc819d-e5dc-8000-b0ec-81c68a102148).
 
 ---
 
