@@ -1,5 +1,11 @@
 # Comic: Finding The Furry Cat
 
+> Read aloud the poem. Ask children to recite and enact it. Children can look
+> at the pictures and tell what all they see and discuss the things
+> which are above, below, on, under, and so on with the class.
+> Encourage them to talk about the animals that they see around
+> them, like cats, dogs, cows, etc.
+
 ## Scene 1 - Intro (Finding the Furry Cat!)
 
 The picture shows the cover of a story or poem called “Finding the Furry Cat!”
